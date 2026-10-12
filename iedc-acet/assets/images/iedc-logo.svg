@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="IEDC logo placeholder">
+  <rect x="3" y="3" width="94" height="94" rx="25" fill="#0b1830"/>
+  <path d="M50 17c-13 0-23 10-23 23 0 9 4 14 10 20 3 3 4 7 4 11h18c0-4 1-8 4-11 6-6 10-11 10-20 0-13-10-23-23-23Z" fill="none" stroke="#53e1cd" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M41 76h18M43 84h14M50 7v5M18 23l6 5M82 23l-6 5M13 48h8M79 48h8" stroke="#53e1cd" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="50" cy="40" r="6" fill="#fff"/>
+</svg>

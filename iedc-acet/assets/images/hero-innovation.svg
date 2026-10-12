@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" role="img" aria-labelledby="title desc">
+  <title id="title">Students collaborating on an innovative idea</title>
+  <desc id="desc">A friendly flat illustration of three students sharing ideas around a project board.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8f7f1"/><stop offset="1" stop-color="#eef7ff"/></linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#102644"/><stop offset="1" stop-color="#1b4b64"/></linearGradient>
+  </defs>
+  <circle cx="310" cy="250" r="215" fill="url(#panel)"/>
+  <circle cx="470" cy="110" r="28" fill="#13b8a6" opacity=".15"/>
+  <circle cx="115" cy="330" r="18" fill="#eab34b" opacity=".35"/>
+  <path d="M100 400c50-42 100-39 146-5s109 35 161-3 88-37 118-15v52H100Z" fill="#bcebe3"/>
+  <rect x="176" y="83" width="252" height="204" rx="18" fill="#fff" stroke="#d5e6e8" stroke-width="3"/>
+  <rect x="195" y="102" width="214" height="165" rx="10" fill="url(#screen)"/>
+  <path d="M220 145h77M220 161h118M220 177h62" stroke="#80e6d8" stroke-width="6" stroke-linecap="round" opacity=".85"/>
+  <rect x="312" y="125" width="72" height="72" rx="13" fill="#173b59" stroke="#54dcca" stroke-width="2"/>
+  <path d="M348 139v42M327 160h42M333 145l30 30M363 145l-30 30" stroke="#54dcca" stroke-width="3" stroke-linecap="round"/>
+  <rect x="272" y="287" width="62" height="12" rx="6" fill="#8eaab7"/>
+  <path d="M245 304h116l16 11H229Z" fill="#d0e0e7"/>
+  <!-- left student -->
+  <path d="M88 407c3-65 22-107 69-109 47 2 64 44 67 109Z" fill="#0b1830"/>
+  <path d="M126 305l31 37 30-37-13-19h-35Z" fill="#fff"/>
+  <path d="M139 331l18 11 17-11-8 76h-20Z" fill="#13b8a6"/>
+  <circle cx="157" cy="260" r="37" fill="#b97550"/>
+  <path d="M121 258c-8-36 12-59 40-59 29 0 44 21 34 52l-8-17-14-8c-13 11-28 16-50 14Z" fill="#18263b"/>
+  <path d="M138 268q8 6 15 0M165 268q8 6 15 0" stroke="#39251e" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M147 285q10 8 21 0" stroke="#7d3f32" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- right student -->
+  <path d="M371 410c3-66 22-108 69-110 47 2 64 44 67 110Z" fill="#13a99c"/>
+  <path d="M407 303l32 39 29-39-13-18h-35Z" fill="#f9fafb"/>
+  <path d="M420 331l19 11 17-11-8 79h-20Z" fill="#0b1830"/>
+  <circle cx="440" cy="260" r="37" fill="#e0a778"/>
+  <path d="M404 258c-7-37 14-59 41-59 29 0 43 20 33 51l-8-17-15-8c-13 11-28 16-49 14Z" fill="#3d2a25"/>
+  <path d="M420 268q8 6 15 0M447 268q8 6 15 0" stroke="#39251e" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M429 285q10 8 21 0" stroke="#9b5944" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- front student -->
+  <path d="M222 434c2-57 20-89 62-91 42 2 60 34 62 91Z" fill="#eab34b"/>
+  <circle cx="284" cy="327" r="33" fill="#8b563e"/>
+  <path d="M251 324c-5-31 12-51 36-51 26 0 39 18 31 45l-9-13-13-8c-12 10-25 14-43 13Z" fill="#111e32"/>
+  <path d="M268 334q7 5 13 0M290 334q7 5 13 0" stroke="#33201b" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M275 350q9 7 18 0" stroke="#603728" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M265 366l19 20 19-20" fill="#fff"/>
+  <path d="M276 385h16l7 49h-30Z" fill="#fff" opacity=".85"/>
+  <!-- floating idea symbols -->
+  <circle cx="104" cy="140" r="27" fill="#fff" stroke="#d6e8e8" stroke-width="2"/>
+  <path d="M104 123v34M87 140h34M92 128l24 24M116 128l-24 24" stroke="#13a99c" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="493" cy="319" r="24" fill="#fff" stroke="#d6e8e8" stroke-width="2"/>
+  <path d="M493 303v32M477 319h32" stroke="#eab34b" stroke-width="4" stroke-linecap="round"/>
+  <path d="M477 85l5 11 12 2-9 8 2 12-10-6-11 6 3-12-9-8 12-2Z" fill="#eab34b"/>
+</svg>
